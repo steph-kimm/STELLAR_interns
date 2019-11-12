@@ -3,8 +3,7 @@
 
 ## October 29th
 ##### Project Review
-##### Visit by Dr. Ruth Angus
-##### Install [lightkurve package](https://docs.lightkurve.org/quickstart.html) 
+##### Visit by Dr. Ruth Angus (1 hour)
 ##### Decide next cheers & challenges representative
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
@@ -12,7 +11,7 @@
 
 
 ## October 31st
-##### Learning our tools
+##### Learning our tools & what to expect
+##### Install [lightkurve package](https://docs.lightkurve.org/quickstart.html) 
 ##### McQuillian M-dwarf coding example
-##### Begin working through [first tutorial](https://docs.lightkurve.org/tutorials/01-what-are-lightcurves.html)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
