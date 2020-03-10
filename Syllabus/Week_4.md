@@ -4,7 +4,7 @@
 ## October 29th
 ##### Project Review
 ##### Visit by Dr. Ruth Angus (1 hour)
-##### Decide next cheers & challenges representative
+##### Decide next cheers & challenges representative (Rie filled in)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
 
