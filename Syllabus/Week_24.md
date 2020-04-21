@@ -5,8 +5,9 @@
 ## April 7th
 #### Extra working session
 ##### Meet with all Internship Groups
-##### Test our Decision Tree after removing features
-##### Begin transition to Random Forest Classifiers & Feature Importance Methods
+##### Convert rotation periods to [stellar ages](https://github.com/RuthAngus/stardate)
+##### Reflect on our project and marvel at the results!
+##### Begin transition to Random Forest Classifiers & Feature Importance Methods [slides](https://docs.google.com/presentation/d/1L3mSm64Xe_3RIaDRKcD-HqcIRJwZwK_m0ebqaLBHcYA/edit?usp=sharing)
 ##### Git in the Habit!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 

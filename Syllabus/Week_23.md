@@ -19,8 +19,7 @@
 ##### Meet with all Internship Groups
 ##### Cheers & Challenges 
 ##### Program Structure Discussion
-##### Finish anything we need to from Measuring our Rotation Periods---get our stellar ages
-##### Test our Decision Tree after removing features (possibly next week)
+##### Finish anything we need to from Measuring our Rotation Periods---finish validating rotation periods & get stellar ages
 ##### Begin transition to Random Forest Classifiers & Feature Importance Methods (possible next week)
 ##### Git in the Habit!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
