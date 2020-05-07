@@ -7,7 +7,6 @@
 ##### Choose a Cheers & Challenges Representative
 ##### Build/Train/Test RFclassifer using Kepler data
 ##### Test importances and validate 
-##### Review questions for Guest speakers
 ##### Git in the Habit!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
@@ -15,7 +14,7 @@
 ## May 7th
 #### Cheers & Challenges 4:30pm-5pm (link in 'brownscholars_interns' Slack channel)
 #### Office Hours Session 5pm-6pm (link pinned in our 'int_spinning_stars' Slack channel)
-##### Ask any questions
+##### Review questions for Guest speakers
 ##### Guest Speakers Briley Lewis (UCLA) & Julia Di (Stanford)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
