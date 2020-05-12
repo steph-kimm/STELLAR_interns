@@ -5,7 +5,7 @@
 ## May 12th
 ### Project Wrap Up
 ##### Choose a Cheers & Challenges Representative
-##### Test our stars with Random Forest classifier?
+##### Guest Speaker Sinclaire Manning (UT Austin)
 ##### Add errorbars to final plot
 ##### Check if any of our stars host confirmed planets
 ##### Git in the Habit!
@@ -16,6 +16,7 @@
 #### Cheers & Challenges 4:30pm-5pm (link in 'brownscholars_interns' Slack channel)
 #### Office Hours Session 5pm-6pm (link pinned in our 'int_spinning_stars' Slack channel)
 ##### Discuss website template & content
+##### Write an Abstract
 ##### Make project figures ready for publication
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfftMKYctEGVfuiOdgorBKmERJeUBgbRL4rlHf1-kWgpKU_Tg/viewform?usp=sf_link)
 
